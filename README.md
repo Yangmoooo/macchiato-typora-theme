@@ -11,8 +11,8 @@ Catppuccin Macchiato theme for Typora.
 未改变 Notion 版本的样式，仅调整了颜色和字体：
 
 - 使用 [Catppuccin](https://github.com/catppuccin/catppuccin) 的 Macchiato 配色替换了原本的 Notion Dark
-- 常规字体使用 [Inter](https://github.com/rsms/inter) 和 [LXGW Bright GB](https://github.com/lxgw/LxgwBright)
-- 等宽字体使用 [IntoneMono Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+- 常规字体使用 [LXGW Bright GB](https://github.com/lxgw/LxgwBright)
+- 等宽字体使用 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) 和 [LXGW Bright Code GB](https://github.com/lxgw/LxgwBright-Code)
 
 ## Installation
 
