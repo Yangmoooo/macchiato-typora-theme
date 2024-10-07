@@ -66,8 +66,8 @@
 
     /* General */
     --font-size: 16px;
-    --font-family: "Inter", "LXGW Bright GB", Arial, sans-serif;
-    --monospace: "IntoneMono Nerd Font", "LXGW Bright GB", monospace;
+    --font-family: "LXGW Bright GB", Arial, sans-serif;
+    --monospace: "Source Code Pro", "LXGW Bright Code GB", monospace;
     --heading-char-color: var(--light-trait-400);
     --color-popover-bg-color: var(--text-color);
     --rawblock-edit-panel-bd: var(--bg-color-dark);
